@@ -3,7 +3,8 @@
 2. Install the proper Google Chromedriver for your installed version of Google Chrome https://chromedriver.chromium.org/downloads
 3. In testing.py you will need to update `chrome_binary_path` to the location of the chromedriver you just installed
 4. In testing.py you will need to replace ``file://...`` with ``file://absolute_path_to_file_on_your_system``
-5. Run testing.py
+5. Install dependencies using `pipenv install` if you had virtualenv setup, otherwise go to Pipfile and pip install each item
+6. Run testing.py
 
 ## How It Works
 1. Create boudning boxes for text using "EAST text detector"
