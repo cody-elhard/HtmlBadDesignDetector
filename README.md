@@ -9,4 +9,4 @@
 2. Find all the long straight lines using Canny Edge Detection -> Hough Lines
 3. If an intersection exists there is a possibility the text has flown outside of its containing box
 
-## NOTE: This is a demonstration project and has only been tested on 2 HTML pages
+#### NOTE: This is a demonstration project and has only been tested on 2 HTML pages
